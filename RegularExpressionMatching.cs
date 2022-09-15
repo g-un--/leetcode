@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace leetcode;
+namespace RegularExpressionMatching;
 
 // https://leetcode.com/problems/regular-expression-matching/
 public class RegularExpressionMatching 

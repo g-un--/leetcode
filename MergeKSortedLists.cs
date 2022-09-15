@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
+namespace MergeKSortedLists;
+
 // https://leetcode.com/problems/merge-k-sorted-lists/
 public class MergeKSortedLists
 {
